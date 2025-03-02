@@ -1,0 +1,9 @@
+path:  /root/HandDetection/HandData/Oxford_YOLO
+train: /root/HandDetection/HandData/Oxford_YOLO/images/train  
+val:   /root/HandDetection/HandData/Oxford_YOLO/images/val   
+test:  /root/HandDetection/HandData/Oxford_YOLO/images/test     
+
+# Classes
+nc: 1            # number of classes
+names: ['hand']  # class names
+
